@@ -33,7 +33,7 @@ function Home() {
     return (
         <div className='p-4'>
             <div className="flex justify-between items-center">
-                <h1 className="text-3xl my-8"> Books List ASAP </h1>
+                <h1 className="text-3xl my-8"> Books List </h1>
                 <div className='flex justify-center items-center gap-x-4'>
                     <button
                         style={{
