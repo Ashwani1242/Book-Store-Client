@@ -5,7 +5,6 @@ import ShowBook from './pages/ShowBook'
 import DeleteBook from './pages/DeleteBook'
 import Home from './pages/Home'
 function App() {
-//Hello
   return (
     <div id="app">
       <BrowserRouter>
